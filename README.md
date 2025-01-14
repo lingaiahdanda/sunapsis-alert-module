@@ -5,4 +5,4 @@ This is an alert service spring boot application created to move custom institut
 
 please ignore the rest of the files in the repo as this is a spring boot project.
 
-To run the code, please pull the code to the  local machine and run the AlertService.java file
+To run the code, please pull the code to the  local machine and run the AlertService.java file separately
